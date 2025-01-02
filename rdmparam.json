@@ -1,0 +1,19 @@
+{
+    "setting": {
+      "binWidth": 25,
+      "symmetricalGLCM": true
+    },
+    "featureClass": {
+      "firstorder": null,
+      "glcm": null,
+      "gldm": null,
+      "glrlm": null,
+      "glszm": null,
+      "ngtdm": null,
+      "shape": null,
+      "shape2D": null
+    },
+    "imageType": {
+      "Original": {}
+    }
+  }
